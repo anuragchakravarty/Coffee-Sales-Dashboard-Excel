@@ -10,7 +10,7 @@ The project transforms raw transaction data into an interactive visual reporting
 
 ## 🎯 Business Problem
 
-Analyzing raw transaction data manually can make it difficult to identify sales trends, compare customer performance, and understand how different product categories contribute to revenue.
+Analysing raw transaction data manually can make it difficult to identify sales trends, compare customer performance, and understand how different product categories contribute to revenue.
 
 This project addresses key business questions:
 
